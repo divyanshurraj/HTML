@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>
+        Calender
+        </title>
+    </head>
+    <body>
+        <form>
+            <fieldset>
+                <legend>
+                 Calender
+                </legend>
+                Date: <input type="date" name="Date"/>
+                <br/>
+                <br/>
+                Date: <input type="datetime-local" name="Datetime"/>
+                <br/>
+                <br/>
+                Week: <input type="week" name="week"/>
+                <br/>
+                <br/>
+                Month: <input type="month" name="month"/>
+                <br/>
+                <br/>
+                Range: <input type="range" name="range"/>
+
+            </fieldset>
+        </form>
+    </body>
+</html>
