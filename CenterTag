@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title>
+         Tag
+        </title>
+    </head>
+    <body>
+      <center> 
+        a<sup>2<sup>2</sup>+b<sup>2</sup>
+      </center>
+      <br/>
+      <meter min="0" max="100" value="50"></meter>
+    </body>
+</html>
