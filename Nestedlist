@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>
+   <h1>Nested list</h1>
+        </title>
+    </head>
+    <body>
+     <h1> Frontend</h1>
+     <ol> 
+        <li>HTML <ul type="square"><li>HTML5</li></ul>
+        <li>CSS <ul type="square"><li>CSS5</li>
+                     <li>Bootstrap</li></ul>
+     </ol>
+     <h1> Backend</h1>
+     <ol> 
+        <li> PHP </li>
+        <li> Database </li>
+        <li> Ajax </li>
+     </ol>
+    </body>
+</html>
