@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <title>
+          Image Tag
+        </title>
+    </head>
+    <body>
+     <img src="Downloads/70056-thank you slide-16-9.png" title="Testing Image" alt="This is image is missing" height="500px" width="1000px"/>
+    </body>
+</html>
