@@ -1,0 +1,21 @@
+<html>
+<head>
+    <title>
+
+    </title>
+    <body>
+        <h2> Ordered List</h2>
+        <ol type="a"> 
+            <li> PHP</li>
+            <li> Java</li>
+            <li> Machiine learning</li>
+        </ol>
+        <h2> Unordered List </h2>
+        <ul type="circle"> 
+            <li> PHP</li>
+            <li> Java</li>
+            <li> Machiine learning</li>
+        </ul>
+    </body>
+</head>
+</html>
